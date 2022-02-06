@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FavourDaniel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Web Development and UI/UX Design
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in DevOps Engineering and UX/UI Design
+- 🌱 I’m currently learning DevOps Tools
+- 💞️ I’m looking to collaborate on DevOps Projects
+- 📫 Reach me on linkedin http://linkedin.com/in/favour-daniel-6b84211aa
 
 <!---
 FavourDaniel/FavourDaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
