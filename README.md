@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FavourDaniel
-- 👀 I’m interested in DevOps Engineering
-- 🌱 I’m currently learning DevOps Tools
+- 👀 I’m interested in DevOps Engineering and the Cloud
+- 🌱 I’m currently learning about DevOps technologies
 - 💞️ I’m looking to collaborate on DevOps Projects
 - 📫 Reach me on linkedin http://linkedin.com/in/favour-daniel-6b84211aa
 
