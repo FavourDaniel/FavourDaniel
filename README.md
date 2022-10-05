@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Hub-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CI/CD-Github-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CI/CD-Github-actions-informational?style=flat&logo=github-actions&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Container_Runtime-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Container_Orchestrator-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ## 📈 Github Stats
