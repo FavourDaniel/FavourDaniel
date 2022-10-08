@@ -1,5 +1,5 @@
 ## Hello and welcome, I am Daniel Favour <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<hr>
+
 
 - 👀 I’m interested in DevOps Engineering and the Cloud
 - 🌱 I’m currently learning about DevOps technologies
