@@ -24,6 +24,9 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/CI/CD-CircleCI-informational?style=flat&logo=circleci&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Container_Runtime-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Container_Orchestrator-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Monitoring-informational?style=flat&logo=prometheus&logoColor=white&color=2bbc8a)
+
+
 ## 📈 Github Stats
 <p align="center">
   <a href="https://github.com/FavourDaniel/github-readme-stats">
