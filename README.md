@@ -30,9 +30,9 @@ You can click the Preview link to take a look at your changes.
 ## 📈 Github Stats
 <p align="center">
   <a href="https://github.com/FavourDaniel/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.ap/api/top-langs/?username=FavourDaniel&langs_count=10&layout=compact&theme=midnight-purple&repo=github-readme-stats"  height=220  />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FavourDaniel&langs_count=10&layout=compact&theme=midnight-purple&repo=github-readme-stats"  height=220  />
   </a>
   <a href="https://github.com/FavourDaniel/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=FavourDaniel&show_icons=true&theme=midnight-purple" height=220 />
+    <img align="center" src="https://github-readme-stats.vercel.ap/api?username=FavourDaniel&show_icons=true&theme=midnight-purple" height=220 />
   </a>
 </p>
