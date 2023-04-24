@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in DevOps Engineering and the Cloud
 - 🌱 I’m currently learning about DevOps technologies
-- 💞️ I’m looking to collaborate on DevOps Projects
+- 💞️ I’m looking to collaborate on DevOps and Cloud Native Projects
 - 📫 Reach me on linkedin http://linkedin.com/in/favour-daniel-6b84211aa
 
 <!---
