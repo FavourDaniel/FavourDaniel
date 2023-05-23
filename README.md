@@ -1,10 +1,21 @@
-## Hello and welcome, I am Daniel Favour <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align=center>
+Hi, I'm Daniel Favour
+<img src="https://user-images.githubusercontent.com/75603128/231256750-dbd6f6e5-c26a-448b-bca1-9fd556a918fd.gif" width="30">
+</h1>
 
+<br/>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img align= "center" src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=30&size=30&duration=2000&pause=900&color=2209F7&width=435&height=52&lines=DevOps+Engineer;Technical+Writer;Cloud+Engineer;&center=true&width=380&height=45" alt="Typing SVG" /></a>
+</p>
 
 - 👀 I’m interested in DevOps Engineering and the Cloud
 - 🌱 I’m currently learning about DevOps technologies
 - 💞️ I’m looking to collaborate on DevOps and Cloud Native Projects
 - 📫 Reach me on linkedin http://linkedin.com/in/favour-daniel-6b84211aa
+
+<br/>
 
 <!---
 FavourDaniel/FavourDaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
