@@ -5,11 +5,6 @@ Hi, I'm Daniel Favour
 
 <br/>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img align= "center" src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=30&size=30&duration=2000&pause=900&color=000000&width=435&height=52&lines=DevOps+Engineer;Technical+Writer;Cloud+Engineer;&center=true&width=380&height=45" alt="Typing SVG" /></a>
-</p>
-
 - 👀 I’m interested in DevOps Engineering and the Cloud
 - 🌱 I’m currently learning about DevOps technologies
 - 💞️ I’m looking to collaborate on DevOps and Cloud Native Projects
