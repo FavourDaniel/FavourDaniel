@@ -40,9 +40,3 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Monitoring-Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Visualization-Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge)
 
-
-## 📈 Github Stats
-<p align="center">
-  <a href="https://github.com/FavourDaniel/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FavourDaniel&langs_count=10&layout=compact&theme=midnight-purple&repo=github-readme-stats"  height=220  />
-  </a>
