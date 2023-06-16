@@ -3,8 +3,8 @@ Hi, I'm Daniel Favour
 <img src="https://user-images.githubusercontent.com/75603128/231256750-dbd6f6e5-c26a-448b-bca1-9fd556a918fd.gif" width="30">
 </h1>
 
+![profile](https://github.com/FavourDaniel/FavourDaniel/assets/89241109/70d3b3e1-4d19-42ff-9fbf-474564b3b74c)
 
-![MacBook Pro - 1](https://github.com/FavourDaniel/FavourDaniel/assets/89241109/99290646-b6fe-41d1-b508-0bb8559f5da7)
 
 
 
