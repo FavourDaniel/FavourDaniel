@@ -1,20 +1,11 @@
 
 ![profile](https://github.com/FavourDaniel/FavourDaniel/assets/89241109/70d3b3e1-4d19-42ff-9fbf-474564b3b74c)
 
-
-👩🏻‍💻 I'm Daniel Favour, a DevOps Engineer, Site Reliability Engineer, and Technical Writer. 👩🏻‍💻
-
 <br/>
 
-- 👀 I’m interested in DevOps Engineering and the Cloud
+- 👩🏻‍💻 I’m interested in DevOps Engineering and the Cloud
 - 🌱 I’m currently learning about DevOps technologies
 - 💞️ I’m looking to collaborate on DevOps and Cloud-Native Projects
-- 📫 Reach me on LinkedIn http://linkedin.com/in/favour-daniel-6b84211aa
-
-- Working on: Fun updates on my portfolio site katieraby.com. Tech: Next, Tailwind, React, Vercel.
-- Reading: Fantasy novels
-- Speaking about: Getting started with serverless using AWS Application Composer
-- Fun fact: I speak French and used to work at 🎆 Disneyland Paris 🎆
 
 <br/>
 
