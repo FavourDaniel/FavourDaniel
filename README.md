@@ -4,6 +4,7 @@ Hi, I'm Daniel Favour
 </h1>
 
 
+![MacBook Pro - 1](https://github.com/FavourDaniel/FavourDaniel/assets/89241109/99290646-b6fe-41d1-b508-0bb8559f5da7)
 
 
 
