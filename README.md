@@ -1,11 +1,5 @@
-<h1 align=center>
-Hi, I'm Daniel Favour
-<img src="https://user-images.githubusercontent.com/75603128/231256750-dbd6f6e5-c26a-448b-bca1-9fd556a918fd.gif" width="30">
-</h1>
 
 ![profile](https://github.com/FavourDaniel/FavourDaniel/assets/89241109/70d3b3e1-4d19-42ff-9fbf-474564b3b74c)
-
-
 
 
 👩🏻‍💻 I'm Daniel Favour, a DevOps Engineer, Site Reliability Engineer, and Technical Writer. 👩🏻‍💻
@@ -53,5 +47,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 📖 Articles
 
+## 📺 Talks
 
 
