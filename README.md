@@ -18,8 +18,6 @@ Hi, I'm Daniel Favour
 
 <br/>
 
-![gif](https://user-images.githubusercontent.com/89241109/246188090-be37d70e-4dec-459b-889b-1d8f7d35d830.gif)
-
 <!---
 FavourDaniel/FavourDaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
