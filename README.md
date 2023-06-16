@@ -4,10 +4,6 @@ Hi, I'm Daniel Favour
 </h1>
 
 
-![Frame 3](https://github.com/FavourDaniel/FavourDaniel/assets/89241109/2a708f65-0d4a-47fe-863e-c8f397ded60c)
-
-![Frame 3 (1)](https://github.com/FavourDaniel/FavourDaniel/assets/89241109/41d2dd9b-7e75-40de-933d-cb0c29d1177e)
-
 
 
 
