@@ -41,6 +41,3 @@ You can click the Preview link to take a look at your changes.
 - [How to use the Linux Free Command](https://www.turing.com/kb/how-to-use-the-linux-free-command)
 
 
-## 📺 Talks
-
-
