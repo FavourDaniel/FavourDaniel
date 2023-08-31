@@ -39,5 +39,7 @@ You can click the Preview link to take a look at your changes.
 ## 📖 Articles
 - [Debugging and Logging Terraform Projects](https://www.turing.com/kb/debug-and-log-in-terraform-projects)
 - [How to use the Linux Free Command](https://www.turing.com/kb/how-to-use-the-linux-free-command)
+- [Kubernetes Security: Best Practices for Building a Secure Environment](https://blog.getambassador.io/kubernetes-security-best-practices-for-building-a-secure-environment-b9700b487eb9)
+- [Beginners Guide to GitOps and Flux](https://dev.to/danielfavour/beginners-guide-to-gitops-and-flux-1di9)
 
 
