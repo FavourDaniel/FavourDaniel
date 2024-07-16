@@ -23,7 +23,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Hub-GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/OS-Ubuntu%20Linux-E95420?logo=os&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=os&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/IaC-Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Configuration_Management-Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Container_Runtime-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
