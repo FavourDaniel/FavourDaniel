@@ -3,9 +3,6 @@
 
 <br/>
 
-- 👩🏻‍💻 I’m interested in DevOps Engineering and the Cloud
-- 🌱 I’m currently learning about DevOps technologies
-- 💞️ I’m looking to collaborate on DevOps and Cloud-Native Projects
 
 <br/>
 
